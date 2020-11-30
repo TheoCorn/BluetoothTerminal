@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothSPP Terminal</string>
+    <string name="title_devices">Devices</string>
+    <string name="title_terminal">Terminal</string>
+</resources>
